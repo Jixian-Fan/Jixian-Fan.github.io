@@ -1,7 +1,7 @@
 
 ## Journey of Jixian-Fan
 
- [Link to More news](https://www.fast.ai).
+ [Link to News](https://www.fast.ai).
 
 
 Hello and welcome to this blog. My name is Jixian Fan and you can find my email here Jixian.fan@outlook.com
