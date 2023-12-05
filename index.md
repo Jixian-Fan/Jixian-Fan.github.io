@@ -1,5 +1,5 @@
 
-## My temp CV
+## Journey of Jixian-Fan
 
  [link to my current file](https://www.fast.ai).
 
@@ -7,7 +7,7 @@
 Hello and welcome to this blog. My name is Jixian Fan and you can find my email here Jixian.fan@outlook.com
 
 
-The purpose of this blog is simply to document my journey.
+This blog is a document for my journey.
 
 
 #### RESEARCH INTERESTS
